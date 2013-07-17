@@ -12,8 +12,8 @@ web based manager application included with Tomcat.
 Download and Install
 --------------------
 
-For Python 2.x, please use the python2.x branch.  For Python 3.x and newer, just
-use HEAD.
+For Python 2.x, please use the python2.x branch.  For Python 3.x and newer, use the
+master branch.
 
 On OS X, *nix, or *BSD, put the script in `~/bin` and rename it to
 `tomcat-manager`.
